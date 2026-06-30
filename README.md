@@ -1,18 +1,30 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=220&section=header&text=Ereeny%20Hany&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=55"/>
+
 <h1 align="center">
-  Hi, I'm Ereeny Hany 👋
+  Hi 👋, I'm Ereeny Hany
 </h1>
 
 <h3 align="center">
-Computer Science Student | Future Software Engineer 💻
+Computer Science Student | Aspiring Software Engineer 💻
 </h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=4F8CC9&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Learning+C%2B%2B+%26+OOP;Future+Software+Engineer;Always+Learning+Something+New+🚀"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ereenyhany670&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
 ---
+
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science Student
 - 🇪🇬 From Egypt
-- 💻 Learned C++ Programming.
+- 💻 Learned **C++ Programming**
 - 🌱 Currently learning:
   - Object-Oriented Programming (OOP)
   - Problem Solving
@@ -20,6 +32,7 @@ Computer Science Student | Future Software Engineer 💻
   - Python
 - 🎯 Goal: Earn scholarships, join professional training programs, and become a Software Engineer.
 - 📚 Improving my English every day.
+- 🚀 Always excited to learn new technologies.
 
 ---
 
@@ -27,17 +40,17 @@ Computer Science Student | Future Software Engineer 💻
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge"/>
+<img alt="OOP" src="https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </p>
 
@@ -45,14 +58,14 @@ Computer Science Student | Future Software Engineer 💻
 
 ## 📖 Currently Learning
 
-- Object-Oriented Programming (OOP)
-- Problem Solving
-- Git & GitHub
-- Python
+- 💻 Object-Oriented Programming (OOP)
+- 🧩 Problem Solving
+- 🌿 Git & GitHub
+- 🐍 Python
 
 ---
 
-## 🚀 Goals for 2026
+## 🎯 Goals for 2026
 
 - ✅ Finish OOP
 - ✅ Master Problem Solving
@@ -64,15 +77,44 @@ Computer Science Student | Future Software Engineer 💻
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ereenyhany670&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ereenyhany670&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Connect with Me
 
-- 💼 LinkedIn: Coming Soon...
-- 🌐 Portfolio: Coming Soon...
+<p align="center">
+
+<a href="https://github.com/ereenyhany670">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ereeny-hany-b259b43a6/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/ereenyhany670">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+</a>
+
+<a href="mailto:ereenyhany670@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+✨ *"Stay curious. Keep learning. Build something every day."* ✨
+
+</h3>
